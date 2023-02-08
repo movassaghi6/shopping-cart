@@ -67,10 +67,8 @@ A basic shopping cart application has features such as  Cart functionalities and
 
 ```
 We have the following API's:
-![Screenshot](screenshot.png)
+![Swagger UI](https://github.com/movassaghi6/shopping-cart/blob/main/screenshot.png)
 ```
-
-
 ## A few assumptions
 You have a good understanding of Python Language
 The project you want to use this codebase for uses an SQL Database
