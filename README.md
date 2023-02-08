@@ -65,10 +65,9 @@ http://localhost:8000/docs
 
 A basic shopping cart application has features such as  Cart functionalities and Admin CRUD capabilities among other functionalities.
 
-```
 We have the following API's:
 ![Swagger UI](https://github.com/movassaghi6/shopping-cart/blob/main/screenshot.png)
-```
+
 ## A few assumptions
 You have a good understanding of Python Language
 The project you want to use this codebase for uses an SQL Database
