@@ -106,7 +106,7 @@ def get_cart(db: Session, cart_id: int):
 The above piece of code handles the get_cart call and queries the DB for an item with the id passed in the parameter.
 
 
-### Todo
+## Todo
 
 - Add support for user registeration and logging
 - add testing
